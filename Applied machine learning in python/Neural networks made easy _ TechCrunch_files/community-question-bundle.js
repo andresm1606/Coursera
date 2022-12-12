@@ -1,0 +1,2 @@
+(window.webpackJsonp_spotim_580132258=window.webpackJsonp_spotim_580132258||[]).push([[49],{29:function(e,t,a){"use strict";var n=a(0);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o=n(a(6)),s=n(a(1039)),u=function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},t=e.value;return t&&o.default.createElement("span",{"data-spot-im-class":"community-question",className:s.default.communityQuestion},t)};t.default=u}}]);
+//# sourceMappingURL=community-question-bundle.js.map

@@ -1,0 +1,6 @@
+JAC_QUEUE = (typeof JAC_QUEUE !== 'undefined') ? JAC_QUEUE : [];
+JAC_QUEUE.push({"adServerResponse":{"positions":{"rightrail-article-native-1473383":{"id":"","status":2,"content":{"markup":"<script type='text/javascript'>document.write('<a href=\"https://at.atwola.com/?adlink|5113.1|5203083|0|0|AdId=-3;BnId=0;guid=emn9hcdfdrfgm&b=3&s=p3;itime=416616141;kvcmsid=tcr:1473383;kvmn=963903172;kvpg=techcrunch%2Ecom;kvposition=nativerr;kvsecure=true;kvgrp=4ff796d50;gdpr=0;us_privacy=1---;spaceid=1197802919;\" target=_blank><img src=\"https://aka-cdn.adtechus.com/images/ATCollapse.gif\" border=0 alt=\"AOL Ad\" width=\"1\" height=\"1\" ></a>');\n  \n</script>","type":"display","size":{"width":1,"height":1,"unit":"px"},"adId":"-3","crId":"0"},"meta":{"exclusive":false,"isTrusted":false}}},"adServer":{"name":"1AS","requestDuration":6.99}},"client":{"requestId":14,"version":"0.1.6","allowed":["0.1.5","0.1.6","0.1.6"],"url":"https://jac.yahoosandbox.com","metrics":false},"service":{"region":"us-east-1","requestId":"27b0b176927e81c818201274a12130c54b2595","timings":{"processingDuration":0.63,"totalRequestDuration":7.62}}});
+if (typeof JAC === 'object') {
+  JAC.processQueue();
+}
+/* ip-10-2-0-138.ec2.internal 1604416617432 */
